@@ -2,6 +2,7 @@
 ## Ideamotiv sp. z o. o. (styczeń 2016)
 
 ### Opis
+Nie wiem o co chodziło z tym gifem, więc tego nie ująłem.
 W pliku `zadanie/index.html` znajduje się prosty formularz html. Twoim zadaniem jest dodanie plików `zadanie/css/all.css` oraz
 `zadanie/js/all.js`, które zmienią wygląd i zachowanie strony:
 
